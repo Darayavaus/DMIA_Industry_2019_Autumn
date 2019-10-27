@@ -1,0 +1,8 @@
+{
+    "author_email": "darayavaus.chern@yandex.ru",
+    "learning_rate": 0.2,
+    "max_depth": 7,
+    "n_estimators": 18,
+    "min_child_weight": 3,
+    "seed": 42
+}
